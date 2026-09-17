@@ -1,7 +1,10 @@
 # My First GitHub Project
 
-I am learning how to use GitHub from my Android phone.
+I am learning how to use GitHub from my Android phone
 
+## Project Purpose
+
+This project is helping me learn how GitHub works and how to build a professional project portfolio.
 ## What I want to learn
 
 - How repositories work
