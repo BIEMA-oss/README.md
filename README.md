@@ -14,3 +14,6 @@ I am learning how to use GitHub from my Android phone.
 ## My first goal
 
 Build and publish my first real project on GitHub.
+## Branch Practice
+
+This text was added on my practice branch.
