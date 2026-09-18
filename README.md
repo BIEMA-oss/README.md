@@ -26,3 +26,10 @@ This text was added on my practice branch.
 ## Project Screenshot
 
 ![GitHub Project Board](images/Github-project-board.jpg)
+
+## Useful Links
+
+- [My GitHub Profile](https://github.com/BIEMA-oss)
+- [My Project Board](YOUR_PROJECT_BOARD_LINK)
+
+
