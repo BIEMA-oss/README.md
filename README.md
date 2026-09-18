@@ -1,4 +1,7 @@
 # My First GitHub Project
+![Status](https://img.shields.io/badge/status-learning-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![GitHub](https://img.shields.io/badge/GitHub-beginner-lightgrey)
 
 I am learning how to use GitHub from my Android phone.
 
