@@ -22,3 +22,7 @@ Build and publish my first real project on GitHub.
 ## Branch Practice
 
 This text was added on my practice branch.
+
+## Project Screenshot
+
+![GitHub Project Board](images/Github-project-board.jpg)
